@@ -16,3 +16,5 @@ Definições para papéis: Tank é o papel que possui pouco dano, mas consegue p
 
 
 Dentro desse repositório temos o arquivo python do projeto e um executável na pasta dist do mesmo código já compilado para realização de testes, assim como o pdf do projeto como um todo, possuindo a descrição do minimundo, base de conhecimento, regras, fluxograma do sistema, diagrama de caso de uso, diagrama de estado e o protótipo feito em figma como solicitado.
+
+O link do protótipo com UI feito via figma é o seguinte: https://www.figma.com/proto/KAhP3gzDByN88jAS8whSf7/Proof-of-Concept-Auxiliador-de-Escolha-de-Roles-MMORPG?node-id=4-6&t=9gsRKxuQRuWMoVgt-1
